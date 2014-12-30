@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{77D4A6AD-F39F-4270-ABCE-4B0D025AB8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitaniumSunflower", "TitaniumSunflower.csproj", "{BB7320A3-45F9-459B-9F2F-F5D0E80CADD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7320A3-45F9-459B-9F2F-F5D0E80CADD0}.Debug|x86.ActiveCfg = Debug|x86
+		{BB7320A3-45F9-459B-9F2F-F5D0E80CADD0}.Debug|x86.Build.0 = Debug|x86
+		{BB7320A3-45F9-459B-9F2F-F5D0E80CADD0}.Release|x86.ActiveCfg = Release|x86
+		{BB7320A3-45F9-459B-9F2F-F5D0E80CADD0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TitaniumSunflower.csproj
+	EndGlobalSection
+EndGlobal
